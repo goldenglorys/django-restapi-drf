@@ -1,1 +1,1 @@
-web: gunicorn drftutorial.drftutorial.wsgi --log-file 
+web: gunicorn drftutorial.wsgi --log-file 
